@@ -1,1 +1,1 @@
-# DNS-Blocklist
+# Defend Now DNS Blacklist
