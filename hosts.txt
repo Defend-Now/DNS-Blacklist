@@ -11,3 +11,4 @@
 ||cs2-winner.com^$important
 ||fomo-tracking.xyz^$important
 ||fomo-analyze.xyz^$important
+||mint-debankcom.pages.dev^$important
