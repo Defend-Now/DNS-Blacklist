@@ -12,3 +12,5 @@
 ||fomo-tracking.xyz^$important
 ||fomo-analyze.xyz^$important
 ||mint-debankcom.pages.dev^$important
+||valorant2025.com^$important
+||valarcanesheriff.com^$important
