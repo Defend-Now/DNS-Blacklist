@@ -7,3 +7,4 @@
 ||rblxtools.top^$important
 ||roblox.fo^$important
 ||www-rcblox.com^$important
+||opensea-join6.vercel.app^$important
