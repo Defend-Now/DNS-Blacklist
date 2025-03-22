@@ -8,3 +8,4 @@
 ||roblox.fo^$important
 ||www-rcblox.com^$important
 ||opensea-join6.vercel.app^$important
+||cs2-winner.com^$important
