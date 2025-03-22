@@ -14,3 +14,4 @@
 ||mint-debankcom.pages.dev^$important
 ||valorant2025.com^$important
 ||valarcanesheriff.com^$important
+||valorant-2025.icu^$important
