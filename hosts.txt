@@ -21,3 +21,9 @@
 ||defismartresolve.firebaseapp.com^$important
 ||resourcesdapp.help^$important
 ||5thscapesupport.pages.dev^$important
+||rpc-protocolsync.online^$important
+||rpc-webprotocol.com^$important
+||dapp-webconfigurationdex.pages.dev^$important
+||swiftnetprotocol.web.app^$important
+||securebridgedapp.com^$important
+||pepeunchainedsupport.pages.dev^$important
