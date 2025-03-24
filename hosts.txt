@@ -19,3 +19,5 @@
 ||rpcdefisupport.oxdiego.com^$important
 ||oxdiego.com^$important
 ||defismartresolve.firebaseapp.com^$important
+||resourcesdapp.help^$important
+||5thscapesupport.pages.dev^$important
