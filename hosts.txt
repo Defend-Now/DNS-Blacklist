@@ -18,3 +18,4 @@
 ||vulcan-verifier.net^$important
 ||rpcdefisupport.oxdiego.com^$important
 ||oxdiego.com^$important
+||defismartresolve.firebaseapp.com^$important
