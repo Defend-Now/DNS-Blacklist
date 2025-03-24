@@ -27,3 +27,14 @@
 ||swiftnetprotocol.web.app^$important
 ||securebridgedapp.com^$important
 ||pepeunchainedsupport.pages.dev^$important
+||swiftveriauth.online^$important
+||pawsairdrop.cfd^$important
+||shexobisai.com^$important
+||dapps-xbridge.vercel.app^$important
+||swiftindexchain.web.app^$important
+||decentralizedweb3.onrender.com^$important
+||support-ebc.pages.dev^$important
+||lightchainsupports.pages.dev^$important
+||rpcnodeissesreset.pages.dev^$important
+||mainchain3dapp.pages.dev^$important
+||resolutiongate.com^$important
