@@ -63,3 +63,5 @@
 ||ipstresser.su^$important
 ||rblxload.com^$important
 ||matrica-roles.com^$important
+||tf2warroom.com^$important
+||^$important
