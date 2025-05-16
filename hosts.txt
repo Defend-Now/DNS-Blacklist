@@ -64,4 +64,5 @@
 ||rblxload.com^$important
 ||matrica-roles.com^$important
 ||tf2warroom.com^$important
+||vulcanrole-api.net^$important
 ||^$important
