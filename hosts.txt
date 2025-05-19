@@ -65,4 +65,8 @@
 ||matrica-roles.com^$important
 ||tf2warroom.com^$important
 ||vulcanrole-api.net^$important
+||dappaccess.web.app^$important
+||^$important
+||^$important
+||^$important
 ||^$important
