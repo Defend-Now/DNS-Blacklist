@@ -66,7 +66,7 @@
 ||tf2warroom.com^$important
 ||vulcanrole-api.net^$important
 ||dappaccess.web.app^$important
-||^$important
+||opensea-docs.vercel.app^$important
 ||^$important
 ||^$important
 ||^$important
