@@ -67,6 +67,6 @@
 ||vulcanrole-api.net^$important
 ||dappaccess.web.app^$important
 ||opensea-docs.vercel.app^$important
-||^$important
-||^$important
+||opensea-box1.web.app^$important
+||opensea-eth3.web.app^$important
 ||^$important
