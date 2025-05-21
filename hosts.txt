@@ -70,3 +70,8 @@
 ||opensea-box1.web.app^$important
 ||opensea-eth3.web.app^$important
 ||^$important
+||^$important
+||^$important
+||^$important
+||^$important
+||^$important
